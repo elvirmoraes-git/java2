@@ -1,6 +1,6 @@
 import java.util.Optional;
 
-public class Opcional_Optional {
+public class Optional_01 {
     public static void main(String[] args) {
     
         Optional<String> vazio  = Optional.empty();
